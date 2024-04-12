@@ -1,8 +1,4 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
-&nbsp;&nbsp;&nbsp;
-
-
 <p align="center">I ❤️ solve great challenges using tech.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
