@@ -17,10 +17,6 @@
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![JIRA issue](https://img.shields.io/jira/issue/:issueKey)
-![JIRA sprint completion](https://img.shields.io/jira/sprint/:sprintId)
-
-
 
 &nbsp;
 &nbsp;
