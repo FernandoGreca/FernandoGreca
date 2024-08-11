@@ -1,4 +1,4 @@
-<h3 align="left">Olá! Meu nome é Fernando Barros Greca e estudo engenharia de software na UNIFIL. Com um forte conhecimento de desenvolvimento web, Python e Java, procuro novas maneiras de transformar ideias em soluções úteis e eficazes. Meu objetivo é criar experiências digitais úteis e divertidas e continuar a desenvolver minhas habilidades e conhecimentos na área. Navegue em meu site para saber mais sobre meus projetos, habilidades e como transformar sua visão em realidade.</h3>
+<h3 align="left">Olá! Meu nome é Fernando Barros Greca e estudo engenharia de software na UNIFIL. Com um forte conhecimento de desenvolvimento web, Python e Java, procuro novas maneiras de transformar ideias em soluções úteis e eficazes. Meu objetivo é criar experiências digitais úteis e divertidas e continuar a desenvolver minhas habilidades e conhecimentos na área. Navegue em meu GitHub para saber mais sobre meus projetos, habilidades.</h3>
 
 ###
 
