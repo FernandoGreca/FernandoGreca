@@ -28,8 +28,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FernandoGreca&show_icons=true&theme=dark)
 
-*(Substitua `FernandoGreca` pelo seu nome de usuário do GitHub)*  
-
 ### 📫 **Vamos conversar?**  
 
 💼 [LinkedIn](https://www.linkedin.com/in/fernando-greca/)  
