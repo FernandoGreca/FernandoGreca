@@ -24,9 +24,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 **GitHub Stats & Most Used Languages**  
+### 📊 **GitHub Stats**  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoGreca&layout=compact&theme=dark)](https://github.com/FernandoGreca)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FernandoGreca&show_icons=true&theme=dark)
 
 *(Substitua `FernandoGreca` pelo seu nome de usuário do GitHub)*  
 
