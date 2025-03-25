@@ -1,47 +1,40 @@
-<h3 align="left">Olá! Meu nome é Fernando Barros Greca e estudo engenharia de software na UNIFIL. Com um forte conhecimento de desenvolvimento web, Python e Java, procuro novas maneiras de transformar ideias em soluções úteis e eficazes. Meu objetivo é criar experiências digitais úteis e divertidas e continuar a desenvolver minhas habilidades e conhecimentos na área. Navegue em meu GitHub para saber mais sobre meus projetos, habilidades.</h3>
+# Olá, eu sou o Fernando Barros Greca! 👋
 
-###
+💻 **Desenvolvedor Full-Stack** | 🏡 **Londrina, PR - Brasil**  
+🚀 **Trabalhando na [Integrado](https://www.integrado.com.br/)** | 🌱 **Aprendendo constantemente**  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FernandoGreca&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoGreca&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### 🛠️ **Tecnologias & Ferramentas**  
 
-###
+#### **Back-End**  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-<img align="right" height="150" src="https://i.gifer.com/XOsX.gif"  />
+#### **Front-End**  
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
-###
+#### **Banco de Dados**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+#### **DevOps & Outros**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-###
+### 📊 **GitHub Stats & Most Used Languages**  
 
-<div align="left">
-  <a href="https://www.instagram.com/fernandobgreca/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
- 
-  <a href="mailto:fernandobgreca@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/fernando-greca/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoGreca&layout=compact&theme=dark)](https://github.com/FernandoGreca)  
 
-###
+*(Substitua `FernandoGreca` pelo seu nome de usuário do GitHub)*  
+
+### 📫 **Vamos conversar?**  
+
+💼 [LinkedIn](https://www.linkedin.com/in/fernando-greca/)  
+📷 [Instagram](https://www.instagram.com/fernandobgreca/)  
+
+---
+
+⭐ **Fique à vontade para explorar meus repositórios!**  
